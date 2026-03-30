@@ -1,6 +1,6 @@
 # 🤖 HANON AI — AI Web3 Community Manager
 
-Powered by **Groq AI ("llama-3.3-70b-versatile";)**. Runs 24/7 as an expert Telegram community manager for any Web3 / crypto project.
+Powered by **Groq AI ("openai/gpt-oss-20b";)**. Runs 24/7 as an expert Telegram community manager for any Web3 / crypto project.
 
 ---
 
