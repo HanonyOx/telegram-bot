@@ -1,4 +1,4 @@
-# 🤖 HANON AI — AI Web3 Community Manager
+<img width="1185" height="1390" alt="image" src="https://github.com/user-attachments/assets/64c773bd-ea11-48ba-8ef1-a74207872506" /># 🤖 HANON AI — AI Web3 Community Manager
 
 Powered by **Groq AI (LLaMA 3 70B)**. Runs 24/7 as an expert Telegram community manager for any Web3 / crypto project.
 
@@ -136,7 +136,16 @@ All community data (project info, FAQs, warnings, conversation history) is store
 
 Built with ❤️ for Web3 communities.
 
-# AUTHOR INFORMATION
 
-# telegram-bot
+## 👤 Author Information
+
+**Name:** OMEH CHUKWUEBUKA ANTHONY (HANONY)  
+**Position:** Developer / Project Manager  
+**Email:** tonyomehukwuji@gmail.com
+**Telegram:** https://t.me/HanonyOx
+
+
+
+> _This is the first version of the project (V1). More updates and features will be added as development progresses._
+
       AI COMMUNITY MANAGER BOT    Web3 · Blockchain · Crypto · Tech · Full Telegram Admin   
