@@ -22,7 +22,7 @@ const path = require("path");
 const bot = new TelegramBot(process.env.TELEGRAM_BOT_TOKEN, { polling: true });
 const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 
-const MODEL = "llama3-70b-8192"; // Best Groq model for deep knowledge tasks
+const MODEL = "llama-3.3-70b-versatile"; // Best Groq model for deep knowledge tasks
 const DATA_FILE = path.join(__dirname, "community_data.json");
 
 // ─── PERSISTENT STORAGE ───────────────────────────────────────────────────
