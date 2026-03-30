@@ -1,4 +1,4 @@
-<img width="1185" height="1390" alt="image" src="https://github.com/user-attachments/assets/64c773bd-ea11-48ba-8ef1-a74207872506" /># 🤖 HANON AI — AI Web3 Community Manager
+# 🤖 HANON AI — AI Web3 Community Manager
 
 Powered by **Groq AI (LLaMA 3 70B)**. Runs 24/7 as an expert Telegram community manager for any Web3 / crypto project.
 
