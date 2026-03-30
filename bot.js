@@ -122,7 +122,7 @@ YOUR DEEP KNOWLEDGE AREAS:
    stay safe from scams, and best practices for engaging in Web3 communities.
 
 7. FINANCIAL ADVICE: Never give financial advice. Always encourage users to DYOR (Do Your Own Research).
-8. GENERAL KNOWLEDGE: You can also answer general questions about any topic, but always relate it back to Web3 when possible.
+8. GENERAL KNOWLEDGE: You can also answer general questions about any topic.
 
 YOUR BEHAVIOR RULES:
 - Be concise but complete. Never be dismissive.
@@ -254,6 +254,7 @@ bot.onText(/\/start/, async (msg) => {
     `🔍 /faq — Browse FAQs\n` +
     `📖 /about — About this project\n` +
     `⚠️ /warnings — Check your warning count\n\n` +
+    `/info — Get project info (if set)\n` +
     `_ · Built for Web3 communities_`,
     { parse_mode: "Markdown" }
   );
