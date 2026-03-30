@@ -139,7 +139,7 @@ Built with ❤️ for Web3 communities.
 
 ## 👤 Author Information
 
-**Name:** OMEH CHUKWUEBUKA ANTHONY (HANONY)  
+**Name:** ANTHONY CHUKWUEBUKA OMEH (HANONY)  
 **Position:** Developer / Project Manager  
 **Email:** tonyomehukwuji@gmail.com
 **Telegram:** https://t.me/HanonyOx
